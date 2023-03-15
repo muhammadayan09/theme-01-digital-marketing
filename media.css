@@ -1,0 +1,876 @@
+@media (min-width: 375px) and (max-width: 667px) {
+
+    .header-h3 {
+        margin-left: -10.5rem !important;
+    }
+
+    .home-row-div-1 {
+        margin-left: 0.8rem !important;
+        width: 27rem !important;
+    }
+
+    .home-row-div-1 h1 {
+        font-size: 16px !important;
+    }
+
+    .home-div p {
+        font-size: 11px !important;
+    }
+
+    .iframe {
+        width: 17rem !important;
+        height: 10rem !important;
+        margin-top: -11rem !important;
+        margin-left: -5rem !important;
+    }
+
+    #blog {
+        height: 160rem !important;
+    }
+
+    .blog-thumb {
+        height: 34rem !important;
+        width: 19rem !important;
+        margin-top: 7px !important;
+    }
+
+    .media-body {
+        margin-left: -18rem !important;
+        margin-top: 19rem !important;
+    }
+
+    .media-object img {
+        width: 19rem !important;
+        height: 18rem !important;
+    }
+
+    #work {
+        height: 98rem !important;
+    }
+
+    .work-card {
+        width: 89% !important;
+    }
+
+    #contact {
+        height: 55rem !important;
+    }
+
+    #contact .form-control {
+        width: 19rem !important;
+    }
+
+    .google-map {
+        margin-left: 0rem !important;
+    }
+
+}
+
+@media (min-width: 414px) and (max-width: 896px) {
+
+    .iframe {
+        margin-left: -3rem !important;
+    }
+
+    .blog-thumb {
+        width: 21rem !important;
+    }
+
+    .media-object img {
+        width: 21rem !important;
+    }
+
+    #work {
+        height: 107rem !important;
+    }
+
+    .contact-div {
+        margin-top: -8.2vh !important;
+    }
+
+    #contact .form-control {
+        width: 21rem !important;
+    }
+
+}
+
+@media (min-width: 393px) and (max-width: 851px) {
+
+    #blog {
+        height: 176rem !important;
+    }
+
+    .blog-thumb {
+        width: 23rem !important;
+        height: 38rem !important;
+    }
+
+    .media-object img {
+        width: 23rem !important;
+        height: 22rem !important;
+    }
+
+    .media-body {
+        margin-left: -21rem !important;
+        margin-top: 24rem !important;
+    }
+
+    .work-card {
+        width: 100% !important;
+        margin-top: 1rem !important;
+    }
+
+    #work {
+        height: 110rem !important;
+    }
+
+    #contact .form-control {
+        margin-bottom: 26px !important;
+        width: 23rem !important;
+    }
+
+    .google-map {
+        margin-left: 2rem !important;
+    }
+
+}
+
+@media (min-width: 360px) and (max-width: 740px) {
+
+    .header-h3 {
+        margin-left: -10.5rem !important;
+    }
+
+    .home-row-div-1 {
+        margin-left: 0.8rem !important;
+        width: 27rem !important;
+    }
+
+    .home-row-div-1 h1 {
+        font-size: 16px !important;
+    }
+
+    .home-div p {
+        font-size: 11px !important;
+    }
+
+    .iframe {
+        width: 17rem !important;
+        height: 10rem !important;
+        margin-top: -11rem !important;
+        margin-left: -5rem !important;
+    }
+
+    #blog {
+        height: 165rem !important;
+    }
+
+    .blog-thumb {
+        height: 35rem !important;
+        width: 21rem !important;
+        margin-top: 7px !important;
+    }
+
+    .media-body {
+        margin-left: -18rem !important;
+        margin-top: 19rem !important;
+    }
+
+    .media-object img {
+        width: 21rem !important;
+        height: 21rem !important;
+    }
+
+    #work {
+        height: 105rem !important;
+    }
+
+    .work-card {
+        width: 100% !important;
+    }
+
+    #contact {
+        height: 55rem !important;
+    }
+
+    #contact .form-control {
+        width: 21rem !important;
+    }
+
+    .google-map {
+        margin-left: 0rem !important;
+    }
+
+}
+
+@media (min-width: 412px) and (max-width: 915px) {
+
+    .home-row-div-1 h1 {
+        font-size: 20px !important;
+    }
+
+    .iframe {
+        width: 21rem !important;
+        height: 12rem !important;
+        margin-top: -11rem !important;
+        margin-left: -4rem !important;
+    }
+
+    .media-object img {
+        width: 24rem !important;
+        height: 25rem !important;
+    }
+
+    .blog-thumb {
+        height: 42rem !important;
+        width: 24rem !important;
+        margin-top: 7px !important;
+    }
+
+    .media-body {
+        margin-left: -22rem !important;
+        margin-top: 26rem !important;
+    }
+
+    #blog {
+        height: 193rem !important;
+    }
+
+    #work {
+        height: 114rem !important;
+    }
+
+    .contact-div {
+        margin-left: 0rem !important;
+        margin-top: 0rem !important;
+    }
+
+    #contact .form-control {
+        width: 24rem !important;
+    }
+
+    .google-map {
+        margin-left: 3rem !important;
+    }
+
+    #contact {
+        height: 70rem !important;
+    }
+
+}
+
+@media (min-width: 820px) and (max-width: 1180px) {
+
+    .header-h3 {
+        margin-left: -9rem !important;
+    }
+
+    #nav-2 {
+        padding-bottom: 34px !important;
+    }
+
+    .navbar-toggler {
+        margin-left: 27rem !important;
+    }
+
+    .iframe {
+        margin-top: 0rem !important;
+    }
+
+    .home-div-1 {
+        width: 34rem !important;
+        margin-left: -5rem !important;
+    }
+
+    .home-row-div-1 h1 {
+        margin-left: -5rem !important;
+    }
+
+    .blog-title {
+        margin-left: -12rem !important;
+    }
+
+    .blog-thumb {
+        margin-left: -1rem !important;
+    }
+
+    #blog {
+        height: 105rem !important;
+    }
+
+    .section-title {
+        margin-left: 19rem !important;
+    }
+
+    .line-bar-2 {
+        margin-left: 3vh !important;
+        margin-top: -1vh !important;
+    }
+
+    .work-card {
+        width: 50% !important;
+    }
+
+    #work {
+        height: 62rem !important;
+    }
+
+    .google-map {
+        margin-left: -3rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .contact-title h2 {
+        margin-left: 17rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .line-bar-3 {
+        margin-top: -1vh !important;
+        margin-left: 20rem !important;
+    }
+
+    #contact {
+        height: 52rem !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .header-h3 {
+        margin-left: -9rem !important;
+    }
+
+    #header {
+        width: 48rem !important;
+    }
+
+    #nav-2 {
+        padding-bottom: 34px !important;
+    }
+
+    .navbar-toggler {
+        margin-left: 27rem !important;
+    }
+
+    .iframe {
+        margin-top: 0rem !important;
+    }
+
+    .home-div-1 {
+        width: 34rem !important;
+        margin-left: -5rem !important;
+    }
+
+    .home-row-div-1 h1 {
+        margin-left: -5rem !important;
+    }
+
+    .blog-title {
+        margin-left: -12rem !important;
+    }
+
+    .blog-thumb {
+        margin-left: -1rem !important;
+    }
+
+    #blog {
+        height: 105rem !important;
+    }
+
+    .section-title {
+        margin-left: 19rem !important;
+    }
+
+    .line-bar-2 {
+        margin-left: 3vh !important;
+        margin-top: -1vh !important;
+    }
+
+    .work-card {
+        width: 50% !important;
+    }
+
+    #work {
+        height: 62rem !important;
+    }
+
+    .google-map {
+        margin-left: -3rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .contact-title h2 {
+        margin-left: 17rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .line-bar-3 {
+        margin-top: -1vh !important;
+        margin-left: 20rem !important;
+    }
+
+    #contact {
+        height: 52rem !important;
+    }
+
+
+}
+
+/* @media (min-width: 912px) and (max-width: 1368px) {
+
+    #header {
+        width: 57.1rem !important;
+    }
+
+} */
+
+@media (min-width: 540px) and (max-width: 720px) {
+
+    .header-h3 {
+        margin-left: -6.5rem !important;
+    }
+
+    .navbar-toggler {
+        margin-left: 16rem;
+    }
+
+    .home-row-div-1 {
+        margin-left: 4.8rem !important;
+    }
+
+    .home-row-div-2 {
+        margin-left: 11rem !important;
+    }
+
+    .about-image img {
+        margin-left: 6rem !important;
+    }
+
+    .blog-title h2 {
+        margin-left: 13rem !important;
+        margin-top: 4rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .line-bar-1 {
+        margin-left: 14.6rem !important;
+        margin-top: -2rem !important;
+        margin-bottom: 5rem !important;
+    }
+
+    .blog-thumb {
+        margin-left: 4rem !important;
+    }
+
+    .section-title {
+        margin-left: 13rem !important;
+    }
+
+    .line-bar-2 {
+        margin-left: 4vh !important;
+    }
+
+    #work {
+        height: 146rem !important;
+    }
+
+    .contact-title h2 {
+        margin-left: 12rem !important;
+    }
+
+    .line-bar-3 {
+        margin-top: -3vh !important;
+        margin-left: 14rem !important;
+    }
+
+    #contact .form-control {
+        width: 32rem !important;
+    }
+
+    .google-map {
+        margin-left: 7rem !important;
+    }
+
+}
+
+@media (min-width: 280px) and (max-width: 653px) {
+
+    #nav-2 {
+        margin-left: -18rem !important;
+    }
+
+    .home-row-div-1 {
+        margin-left: 0.8rem !important;
+    }
+
+    .home-row-div-1 h1 {
+        font-size: 11px !important;
+    }
+
+    .home-div-1 {
+        width: 30rem !important;
+        display: inherit !important;
+    }
+
+    .about-title h2 {
+        font-size: 22px !important;
+    }
+
+    .about-image img {
+        height: 13rem;
+    }
+
+    .blog-thumb {
+        width: 10.6rem !important;
+    }
+
+    .media-object img {
+        height: 16rem !important;
+    }
+
+    .media-body {
+        margin-left: -24vh !important;
+        margin-top: 18rem !important;
+    }
+
+    .media-body h5 {
+        font-size: 13px !important;
+    }
+
+    .media-body p {
+        font-size: 10px !important;
+    }
+
+    #blog {
+        height: 134rem !important;
+    }
+
+    .work-card {
+        width: 68% !important;
+    }
+
+    #work {
+        height: 60rem !important;
+    }
+
+    #contact .form-control {
+        width: 10.6rem !important;
+    }
+
+    #contact {
+        height: 48rem !important;
+    }
+
+    .google-map {
+        width: 196px !important;
+        height: 196px !important;
+    }
+
+}
+
+@media (min-width: 800px) and (max-width: 1280px) {
+
+    #contact .form-control {
+        margin-bottom: 34px !important;
+    }
+
+}
+
+
+/*******************################ signup ################*******************/
+
+
+@media (min-width: 375px) and (max-width: 667px) {
+
+    .container-1 {
+        width: 21.6rem !important;
+        margin-left: 1rem !important;
+    }
+
+    .social-container-1 {
+        width: 25vh !important;
+    }
+
+    .sign-in-container h3 {
+        font-size: 7px !important;
+        margin-top: 19px !important;
+    }
+
+    .a {
+        font-size: 10px !important;
+    }
+
+    .form-container-1 input {
+        width: 10rem !important;
+    }
+
+    .overlay-1-panel p {
+        width: 10rem !important;
+    }
+
+}
+
+@media (min-width: 414px) and (max-width: 896px) {
+
+    .container-1 {
+        width: 21.6rem !important;
+        margin-left: 2.4rem !important;
+        margin-top: 13rem;
+    }
+
+}
+
+@media (min-width: 393px) and (max-width: 851px) {
+
+    .container-1 {
+        margin-left: 1.4rem !important;
+        margin-top: 11rem !important;
+    }
+
+}
+
+@media (min-width: 360px) and (max-width: 740px) {
+
+    .container-1 {
+        width: 20.6rem !important;
+        margin-left: 1rem !important;
+    }
+
+    .social-container-1 {
+        width: 24vh !important;
+    }
+
+    .sign-in-container h3 {
+        font-size: 7px !important;
+        margin-top: 19px !important;
+    }
+
+    .a {
+        font-size: 10px !important;
+    }
+
+    .form-container-1 input {
+        width: 9rem !important;
+    }
+
+    .overlay-1-panel p {
+        width: 9rem !important;
+    }
+
+}
+
+@media (min-width: 412px) and (max-width: 915px) {
+
+    .container-1 {
+        margin-left: 2.6rem !important;
+    }
+
+}
+
+@media (min-width: 820px) and (max-width: 1180px) {
+
+    .container-1 {
+        margin-top: 18rem !important;
+        margin-left: 2rem !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .container-1 {
+        margin-top: 18rem !important;
+        margin-left: 2rem !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .container-1 {
+        width: 44.3rem !important;
+    }
+
+}
+
+/* @media (min-width: 912px) and (max-width: 1368px) {
+
+    .container-1 {
+        width: 53.3rem !important;
+        margin-top: 25rem !important;
+    }
+
+} */
+
+@media (min-width: 412px) and (max-width: 914px) {
+
+    .container-1 {
+        width: 21.6rem !important;
+        margin-left: 2.4rem !important;
+        margin-top: 13rem;
+    }
+
+}
+
+@media (min-width: 600px) and (max-width: 1024px) {
+
+    .container-1 {
+        width: 53.3rem !important;
+        margin-top: 3rem !important;
+        margin-left: 5rem !important;
+
+    }
+
+}
+
+@media (min-width: 800px) and (max-width: 1280px) {
+
+    .container-1 {
+        width: 53.3rem !important;
+        margin-top: 9rem !important;
+        margin-left: 14rem;
+    }
+
+}
+
+
+/*******************################ signup is complete ################*******************/
+/*******************################ login ################*******************/
+
+
+@media (min-width: 375px) and (max-width: 667px) {
+
+    .container-1 {
+        width: 21.6rem !important;
+        margin-left: 1rem !important;
+    }
+
+    .social-container-1 {
+        width: 25vh !important;
+    }
+
+    .sign-in-container h3 {
+        font-size: 7px !important;
+        margin-top: 19px !important;
+    }
+
+    .a {
+        font-size: 10px !important;
+    }
+
+    .form-container-1 input {
+        width: 10rem !important;
+    }
+
+    .overlay-1-panel p {
+        width: 10rem !important;
+    }
+
+}
+
+@media (min-width: 414px) and (max-width: 896px) {
+
+    .container-1 {
+        width: 21.6rem !important;
+        margin-left: 2.4rem !important;
+        margin-top: 13rem;
+    }
+
+}
+
+@media (min-width: 393px) and (max-width: 851px) {
+
+    .container-1 {
+        margin-left: 1.4rem !important;
+        margin-top: 11rem !important;
+    }
+
+}
+
+@media (min-width: 360px) and (max-width: 740px) {
+
+    .container-1 {
+        width: 20.6rem !important;
+        margin-left: 1rem !important;
+    }
+
+    .social-container-1 {
+        width: 24vh !important;
+    }
+
+    .sign-in-container h3 {
+        font-size: 7px !important;
+        margin-top: 19px !important;
+    }
+
+    .a {
+        font-size: 10px !important;
+    }
+
+    .form-container-1 input {
+        width: 9rem !important;
+    }
+
+    .overlay-1-panel p {
+        width: 9rem !important;
+    }
+
+}
+
+@media (min-width: 412px) and (max-width: 915px) {
+
+    .container-1 {
+        margin-left: 2.6rem !important;
+    }
+
+}
+
+@media (min-width: 820px) and (max-width: 1180px) {
+
+    .container-1 {
+        width: 46.3rem !important;
+        margin-top: 19rem !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .container-1 {
+        width: 45.5rem !important;
+        margin-top: 19rem !important;
+        margin-left: 1.3rem !important;
+    }
+
+}
+
+/* @media (min-width: 912px) and (max-width: 1368px) {
+
+    .container-1 {
+        width: 53.5rem !important;
+        margin-top: 28rem !important;
+        margin-left: 1.3rem !important;
+    }    
+
+} */
+
+@media (min-width: 412px) and (max-width: 914px) {
+
+    .container-1 {
+        width: 31.6rem !important;
+        margin-left: 1rem !important;
+    }
+
+}
+
+@media (min-width: 600px) and (max-width: 1024px) {
+
+    .container-1 {
+        width: 53.5rem !important;
+        margin-top: 2rem !important;
+        margin-left: 5.3rem !important;
+    }
+
+}
