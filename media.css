@@ -1,137 +1,124 @@
 @media (min-width: 375px) and (max-width: 667px) {
 
-    .header-h3 {
-        margin-left: -10.5rem !important;
+    #nav-2 {
+        font-size: 30px !important;
+        margin-top: -12px !important;
+        margin-left: -12rem !important;
+    }     
+    
+    .navbar-toggler {
+        margin-left: 18rem !important;
+        margin-top: -8vh !important;
     }
 
+    #home {
+        height: 42rem !important;
+    }    
+    
     .home-row-div-1 {
         margin-left: 0.8rem !important;
-        width: 27rem !important;
     }
-
-    .home-row-div-1 h1 {
-        font-size: 16px !important;
-    }
-
-    .home-div p {
-        font-size: 11px !important;
+    
+    .home-div {
+        margin-top: 5vh !important;
+        margin-left: 1px !important;
     }
 
     .iframe {
-        width: 17rem !important;
-        height: 10rem !important;
+        width: 21rem !important;
+        height: 11rem !important;
         margin-top: -11rem !important;
-        margin-left: -5rem !important;
+        margin-left: -4.8rem !important;
+    }
+    
+    .media-body {
+        margin-left: -32vh;
+        margin-top: 24rem;
     }
 
     #blog {
-        height: 160rem !important;
+        height: 187rem !important;
     }
-
-    .blog-thumb {
-        height: 34rem !important;
-        width: 19rem !important;
-        margin-top: 7px !important;
-    }
-
+    
     .media-body {
-        margin-left: -18rem !important;
-        margin-top: 19rem !important;
+        margin-left: -49vh !important;
+        margin-top: 29rem !important;
     }
 
     .media-object img {
-        width: 19rem !important;
-        height: 18rem !important;
+        height: 27rem !important;
+    width: 22rem !important;
     }
 
     #work {
-        height: 98rem !important;
+        height: 108rem !important;
     }
-
+        
     .work-card {
-        width: 89% !important;
+        width: 100% !important;
     }
 
     #contact {
         height: 55rem !important;
-    }
-
-    #contact .form-control {
-        width: 19rem !important;
-    }
-
-    .google-map {
-        margin-left: 0rem !important;
-    }
+    }    
+    
 
 }
 
 @media (min-width: 414px) and (max-width: 896px) {
 
-    .iframe {
-        margin-left: -3rem !important;
-    }
-
-    .blog-thumb {
-        width: 21rem !important;
-    }
-
     .media-object img {
-        width: 21rem !important;
+        height: 27rem !important;
+        width: 24.4rem !important;
     }
 
+    .media-body {
+        margin-left: -41vh !important;
+        margin-top: 29rem !important;
+    }
+    
     #work {
-        height: 107rem !important;
+        height: 117rem !important;
     }
-
+    
     .contact-div {
-        margin-top: -8.2vh !important;
+        margin-left: 0rem;
+        margin-top: -0.2vh;
     }
-
+    
     #contact .form-control {
-        width: 21rem !important;
+        width: 24.5rem !important;
+    }    
+
+    #contact {
+        height: 63rem !important;
     }
 
 }
 
-@media (min-width: 393px) and (max-width: 851px) {
-
-    #blog {
-        height: 176rem !important;
-    }
-
-    .blog-thumb {
-        width: 23rem !important;
-        height: 38rem !important;
-    }
+@media (min-width: 390px) and (max-width: 884px) {
 
     .media-object img {
         width: 23rem !important;
-        height: 22rem !important;
     }
-
+    
     .media-body {
-        margin-left: -21rem !important;
-        margin-top: 24rem !important;
+        margin-left: -39vh !important;
+        margin-top: 29rem !important;
     }
 
-    .work-card {
-        width: 100% !important;
-        margin-top: 1rem !important;
+    .contact-div {
+        margin-left: 0rem;
+        margin-top: -0.2vh;
     }
-
-    #work {
-        height: 110rem !important;
-    }
-
+    
     #contact .form-control {
-        margin-bottom: 26px !important;
         width: 23rem !important;
-    }
-
-    .google-map {
-        margin-left: 2rem !important;
-    }
+    }    
+    
+    #contact {
+        height: 62rem !important;
+    }    
 
 }
 
@@ -415,16 +402,15 @@
         height: 52rem !important;
     }
 
+} 
 
-}
-
-/* @media (min-width: 912px) and (max-width: 1368px) {
+@media (min-width: 912px) and (max-width: 1368px) {
 
     #header {
         width: 57.1rem !important;
     }
 
-} */
+}
 
 @media (min-width: 540px) and (max-width: 720px) {
 
@@ -495,7 +481,7 @@
 
 }
 
-@media (min-width: 280px) and (max-width: 653px) {
+/* @media (min-width: 280px) and (max-width: 653px) {
 
     #nav-2 {
         margin-left: -18rem !important;
@@ -568,7 +554,7 @@
         height: 196px !important;
     }
 
-}
+} */
 
 @media (min-width: 800px) and (max-width: 1280px) {
 
@@ -576,7 +562,7 @@
         margin-bottom: 34px !important;
     }
 
-}
+} 
 
 
 /*******************################ signup ################*******************/
