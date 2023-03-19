@@ -4,8 +4,8 @@
         font-size: 30px !important;
         margin-top: -12px !important;
         margin-left: -12rem !important;
-    }     
-    
+    }
+
     .navbar-toggler {
         margin-left: 18rem !important;
         margin-top: -8vh !important;
@@ -13,12 +13,12 @@
 
     #home {
         height: 42rem !important;
-    }    
-    
+    }
+
     .home-row-div-1 {
         margin-left: 0.8rem !important;
     }
-    
+
     .home-div {
         margin-top: 5vh !important;
         margin-left: 1px !important;
@@ -30,7 +30,7 @@
         margin-top: -11rem !important;
         margin-left: -4.8rem !important;
     }
-    
+
     .media-body {
         margin-left: -32vh;
         margin-top: 24rem;
@@ -39,7 +39,7 @@
     #blog {
         height: 187rem !important;
     }
-    
+
     .media-body {
         margin-left: -49vh !important;
         margin-top: 29rem !important;
@@ -47,21 +47,21 @@
 
     .media-object img {
         height: 27rem !important;
-    width: 22rem !important;
+        width: 22rem !important;
     }
 
     #work {
         height: 108rem !important;
     }
-        
+
     .work-card {
         width: 100% !important;
     }
 
     #contact {
         height: 55rem !important;
-    }    
-    
+    }
+
 
 }
 
@@ -76,19 +76,19 @@
         margin-left: -41vh !important;
         margin-top: 29rem !important;
     }
-    
+
     #work {
         height: 117rem !important;
     }
-    
+
     .contact-div {
         margin-left: 0rem;
         margin-top: -0.2vh;
     }
-    
+
     #contact .form-control {
         width: 24.5rem !important;
-    }    
+    }
 
     #contact {
         height: 63rem !important;
@@ -101,7 +101,7 @@
     .media-object img {
         width: 23rem !important;
     }
-    
+
     .media-body {
         margin-left: -39vh !important;
         margin-top: 29rem !important;
@@ -111,14 +111,14 @@
         margin-left: 0rem;
         margin-top: -0.2vh;
     }
-    
+
     #contact .form-control {
         width: 23rem !important;
-    }    
-    
+    }
+
     #contact {
         height: 62rem !important;
-    }    
+    }
 
 }
 
@@ -402,15 +402,60 @@
         height: 52rem !important;
     }
 
-} 
+}
 
-@media (min-width: 912px) and (max-width: 1368px) {
+/* @media (min-width: 912px) and (max-width: 1368px) {
 
-    #header {
-        width: 57.1rem !important;
+    #nav-1 {
+        padding-right: 25rem !important;
     }
 
-}
+    .header-h3 {
+        margin-top: 40px !important;
+    }    
+
+    #header {
+        width: 64.1rem !important;
+    }
+
+    #blog {
+        height: 63rem !important;
+    }
+
+    .section-title {
+        margin-left: 25rem !important;
+    }
+
+    .line-bar-2 {
+        margin-left: 6vh !important;
+        margin-top: -3vh !important;
+    }
+
+    #work {
+        height: 73rem !important;
+    }
+
+    .contact-title h2 {
+        margin-left: 25rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .line-bar-3 {
+        margin-top: -3vh !important;
+        margin-left: 28rem !important;
+    }
+
+    .contact-div {
+        margin-left: 21rem;
+        margin-top: -14.2vh;
+    }
+
+    .google-map {
+        margin-left: 2rem !important;
+        margin-top: 0rem !important;
+    }
+
+} */
 
 @media (min-width: 540px) and (max-width: 720px) {
 
@@ -558,11 +603,52 @@
 
 @media (min-width: 800px) and (max-width: 1280px) {
 
-    #contact .form-control {
-        margin-bottom: 34px !important;
+    #header {
+        width: 80.1rem !important;
     }
 
-} 
+    #blog {
+        height: 63rem !important;
+    }
+
+    .section-title {
+        margin-left: 30rem !important;
+    }
+
+    .line-bar-2 {
+        margin-left: 6vh !important;
+        margin-top: -3vh !important;
+    }
+
+    #work {
+        height: 83rem !important;
+    }
+
+    .work-card {
+        width: 50% !important;
+    }
+
+    .contact-title h2 {
+        margin-left: 25rem !important;
+        margin-top: 5rem !important;
+    }
+
+    .line-bar-3 {
+        margin-top: -3vh !important;
+        margin-left: 28rem !important;
+    }
+
+    .contact-div {
+        margin-left: 24rem !important;
+        margin-top: -8.8vh !important;
+    }
+
+    .google-map {
+        margin-left: 2rem !important;
+        margin-top: 0rem !important;
+    }
+
+}
 
 
 /*******************################ signup ################*******************/
